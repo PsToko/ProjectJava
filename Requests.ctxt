@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Requests
+comment1.params=RDN\ e\ p
+comment1.target=void\ AddRdEntities(RequestDonation,\ int,\ double)
+comment2.params=RDN\ e
+comment2.target=void\ modify(RequestDonation,\ int)
+comment3.params=p
+comment3.target=double\ validRequestDonation(double)
+comment4.params=
+comment4.target=void\ commit()
+numComments=5

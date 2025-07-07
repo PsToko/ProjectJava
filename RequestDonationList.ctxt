@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=RequestDonationList
+comment1.params=
+comment1.target=RequestDonationList()
+comment2.params=
+comment2.target=void\ printEntity()
+comment3.params=id
+comment3.target=void\ getRdEntities(int)
+comment4.params=RDN
+comment4.target=void\ AddRdEntities(RequestDonation)
+comment5.params=RDN
+comment5.target=void\ remove(RequestDonation)
+comment6.params=RDN
+comment6.target=void\ modify(RequestDonation)
+comment7.params=
+comment7.target=void\ monitor()
+comment8.params=
+comment8.target=void\ reset()
+numComments=9

@@ -1,0 +1,11 @@
+import java.util.ArrayList;
+
+class Offers extends RequestDonationList {
+    Donator Don;
+    Offers(){}
+    
+    void commit(){
+        Don.RDLD.addAll(rdEntities);
+        rdEntities.clear();  
+    }
+}

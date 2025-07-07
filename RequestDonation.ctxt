@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=RequestDonation
+comment1.params=
+comment1.target=RequestDonation()
+comment2.params=entity\ quantity
+comment2.target=RequestDonation(Entity,\ double)
+comment3.params=
+comment3.target=Entity\ getEntity()
+comment4.params=
+comment4.target=double\ getQuantity()
+comment5.params=x
+comment5.target=double\ setQuantity(double)
+comment6.params=
+comment6.target=void\ addQuantity()
+comment7.params=
+comment7.target=void\ removeQuantity()
+comment8.params=
+comment8.target=int\ getId()
+comment9.params=ob1\ ob2
+comment9.target=int\ compare(java.lang.Object,\ java.lang.Object)
+numComments=10

@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Admin
+comment1.params=name\ phone
+comment1.target=Admin(java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=Admin()
+comment3.params=o
+comment3.target=boolean\ AdmPhone(Organization)
+comment4.params=
+comment4.target=boolean\ getIsAdmin()
+comment5.params=switcher
+comment5.target=boolean\ setIsAdmin(boolean)
+numComments=6
