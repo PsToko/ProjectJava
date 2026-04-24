@@ -1,1 +1,1 @@
-Java project made in 2021
+Java eshop project made in 2021 
